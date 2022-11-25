@@ -71,6 +71,8 @@ client.openOrCreateDataset('myDatasetName', function(err, dataset) {
 });
 ```
 
+aio_FMBo17xPM4e0Cj3eYjO23blItDdV
+
 **Step 5.** Once you have the dataset object, you can write, read, and delete records to that dataset. It is also possible to [get all the records](https://github.com/raptortech-js/amazon-cognito-js/blob/master/src/CognitoSyncDataset.js#L93) from a given dataset, [get the amount of data used](https://github.com/raptortech-js/amazon-cognito-js/blob/master/src/CognitoSyncDataset.js#L102) by a dataset, and [more](https://github.com/raptortech-js/amazon-cognito-js/blob/master/src/CognitoSyncDataset.js).
 
 ```javascript
